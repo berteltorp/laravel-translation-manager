@@ -1,6 +1,6 @@
 <?php namespace Barryvdh\TranslationManager\Models;
 
-use Illuminate\Database\Eloquent\Model;
+use App\Model;
 use DB;
 
 /**
